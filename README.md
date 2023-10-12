@@ -1,1 +1,1 @@
-![alt text](https://github.com/Shariar076/Assembly-Snake/blob/master/Screenshot.png?raw=true)
+![alt text](https://github.com/Shariar076/keycloak-extensions/blob/master/Screenshot.png?raw=true)
